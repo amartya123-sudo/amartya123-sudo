@@ -17,7 +17,7 @@ I am an **innovative Computer Science undergraduate** with a strong passion for 
 
 - **Bachelor of Technology (Computer Science & Engineering)**  
   Bennett University (2022–2026)  
-  **GPA:** 8.7/10.0  
+  **CGPA:** 8.61/10.0  
 
 ---
 
