@@ -1,7 +1,6 @@
-# Amartya Saran
-
-![Amartya Saran](https://drive.google.com/uc?export=view&id=1akRZ7Pq775Lfuk4xyH_IneXsvR2MjpkF)
-
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1akRZ7Pq775Lfuk4xyH_IneXsvR2MjpkF" alt="Amartya Saran" width="200" height="200" style="border-radius: 50%;">
+</p>
 
 **Location:** Greater Noida, India  
 **Contact:** +91 72528 76500 | [amartyasaran@gmail.com](mailto:amartyasaran@gmail.com)  
@@ -12,7 +11,7 @@
 
 ## 🌟 About Me
 
-I am an **innovative Computer Science undergraduate** with a strong passion for **AI**, **legal technology**, and **academic solutions**. With expertise in **Python**, **Flutter**, and **machine learning frameworks**, I specialize in developing generative AI-driven solutions to optimize processes and solve complex problems. As a published researcher and certified ethical hacker, I am dedicated to driving impactful innovations in the tech and legal domains.
+I am an **innovative Computer Science undergraduate** with a strong passion for **AI**, **legal technology**, and **academic solutions**. With expertise in **Python**, **Flutter**, and **machine learning frameworks**, I specialize in developing generative AI-driven solutions to optimize processes and solve complex problems. As a **published researcher and certified ethical hacker**, I am dedicated to driving impactful innovations in the tech and legal domains.
 
 ---
 
@@ -20,7 +19,7 @@ I am an **innovative Computer Science undergraduate** with a strong passion for 
 
 - **Bachelor of Technology (Computer Science & Engineering)**  
   Bennett University (2022–2026)  
-  **CGPA:** 8.61/10.0  
+  **GPA:** 8.7/10.0  
 
 ---
 
@@ -71,16 +70,16 @@ I am an **innovative Computer Science undergraduate** with a strong passion for 
 
 ## 🛠️ Skills
 
-### Technical Skills
+### **Technical Skills**
 - **Programming Languages:** Python (Experienced), Dart, JavaScript, Bash, C++ (Familiar)  
 - **Frameworks & Libraries:** LlamaIndex, LangChain, PyTorch, TensorFlow, Flutter  
 - **Tools:** GIT, CLI, Android Studio  
 
-### Languages
+### **Languages**
 - **Native:** Hindi  
 - **Fluent:** English  
 
-### Soft Skills
+### **Soft Skills**
 - Problem Solving, Teamwork, Strategic Thinking, Communication, Leadership, Adaptability  
 
 ---
