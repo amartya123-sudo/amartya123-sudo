@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1akRZ7Pq775Lfuk4xyH_IneXsvR2MjpkF" alt="Amartya Saran" width="200" height="200" style="clip-path: circle(50%);">
+  <img src="https://drive.google.com/uc?export=view&id=1akRZ7Pq775Lfuk4xyH_IneXsvR2MjpkF" width="200" height="200" style="clip-path: circle(50%);">
 </p>
 
 
