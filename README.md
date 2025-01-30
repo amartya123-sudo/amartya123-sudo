@@ -1,6 +1,7 @@
 # Amartya Saran
 
-![Amartya Saran](https://drive.google.com/file/d/1akRZ7Pq775Lfuk4xyH_IneXsvR2MjpkF/view?usp=drive_link)
+![Amartya Saran](https://drive.google.com/uc?export=view&id=1akRZ7Pq775Lfuk4xyH_IneXsvR2MjpkF)
+
 
 **Location:** Greater Noida, India  
 **Contact:** +91 72528 76500 | [amartyasaran@gmail.com](mailto:amartyasaran@gmail.com)  
