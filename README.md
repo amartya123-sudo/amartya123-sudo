@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1akRZ7Pq775Lfuk4xyH_IneXsvR2MjpkF" alt="Amartya Saran" width="200" height="200" style="border-radius: 50%; border: 2px solid #000;">
+  <img src="https://drive.google.com/uc?export=view&id=1akRZ7Pq775Lfuk4xyH_IneXsvR2MjpkF" alt="Amartya Saran" width="200" height="200" style="clip-path: circle(50%);">
 </p>
 
 
 **Location:** Greater Noida, India  
-**Contact:** +91 72528 76500 | [amartyasaran@gmail.com](mailto:amartyasaran@gmail.com)  
+**Contact:** [amartyasaran@gmail.com](mailto:amartyasaran@gmail.com)  
 **GitHub:** [github.com/amartya123-sudo](https://github.com/amartya123-sudo)  
 **LinkedIn:** [linkedin.com/in/amartya-saran-384555166/](https://www.linkedin.com/in/amartya-saran-384555166/)  
 
@@ -20,7 +20,7 @@ I am an **innovative Computer Science undergraduate** with a strong passion for 
 
 - **Bachelor of Technology (Computer Science & Engineering)**  
   Bennett University (2022–2026)  
-  **GPA:** 8.7/10.0  
+  **GPA:** 8.61/10.0  
 
 ---
 
@@ -41,8 +41,10 @@ I am an **innovative Computer Science undergraduate** with a strong passion for 
 ---
 
 ## 📊 Research Work
+A. Saran, S. Shukla and T. Ahmed, "A comparative analysis of zero-shot rhetorical role classification in legal domain," International Conference on AI and the Digital Economy (CADE 2024), Hybrid Conference, Venice, Italy, 2024, pp. 137-142, doi: 10.1049/icp.2024.2542.
+[URL:](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10700920&isnumber=10700862)
 
-**A Comparative Analysis of Zero-Shot Rhetorical Role Classification in Legal Domain** (Sep 2024)  
+**A Comparative Analysis of Zero-Shot Rhetorical Role Classification in Legal Domain** (Sep 2024) | [Abstract Link]()
 - Conducted an in-depth analysis of transformer models for rhetorical role classification in Indian legal judgments.  
 - Selected a model achieving **95% accuracy** in classification.  
 - Published at the **International Conference on AI and the Digital Economy (CADE, 2024)**.  
