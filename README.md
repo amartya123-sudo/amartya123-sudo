@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1akRZ7Pq775Lfuk4xyH_IneXsvR2MjpkF" alt="Amartya Saran" width="200" height="200" style="border-radius: 50%; border: 2px solid #000;">
+  <img src="[https://your-image-url.com/image.jpg](https://drive.google.com/uc?export=view&id=1akRZ7Pq775Lfuk4xyH_IneXsvR2MjpkF)" alt="Amartya Saran" width="200" height="200" style="border-radius: 50%; border: 2px solid #000;">
 </p>
+
 
 **Location:** Greater Noida, India  
 **Contact:** +91 72528 76500 | [amartyasaran@gmail.com](mailto:amartyasaran@gmail.com)  
