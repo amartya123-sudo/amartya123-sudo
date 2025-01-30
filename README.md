@@ -41,13 +41,8 @@ I am an **innovative Computer Science undergraduate** with a strong passion for 
 ---
 
 ## 📊 Research Work
-A. Saran, S. Shukla and T. Ahmed, "A comparative analysis of zero-shot rhetorical role classification in legal domain," International Conference on AI and the Digital Economy (CADE 2024), Hybrid Conference, Venice, Italy, 2024, pp. 137-142, doi: 10.1049/icp.2024.2542.
-[URL:](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10700920&isnumber=10700862)
-
-**A Comparative Analysis of Zero-Shot Rhetorical Role Classification in Legal Domain** (Sep 2024) | [Abstract Link]()
-- Conducted an in-depth analysis of transformer models for rhetorical role classification in Indian legal judgments.  
-- Selected a model achieving **95% accuracy** in classification.  
-- Published at the **International Conference on AI and the Digital Economy (CADE, 2024)**.  
+A. Saran, S. Shukla and T. Ahmed, *"A comparative analysis of zero-shot rhetorical role classification in legal domain"* International Conference on AI and the Digital Economy (CADE 2024), Hybrid Conference, Venice, Italy, 2024, pp. 137-142, doi: 10.1049/icp.2024.2542.
+[Abstract Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10700920&isnumber=10700862)
 
 ---
 
