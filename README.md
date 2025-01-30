@@ -1,5 +1,7 @@
 # Amartya Saran
 
+![Amartya Saran](https://drive.google.com/file/d/1akRZ7Pq775Lfuk4xyH_IneXsvR2MjpkF/view?usp=sharing)
+
 **Location:** Greater Noida, India  
 **Contact:** +91 72528 76500 | [amartyasaran@gmail.com](mailto:amartyasaran@gmail.com)  
 **GitHub:** [github.com/amartya123-sudo](https://github.com/amartya123-sudo)  
