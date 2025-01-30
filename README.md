@@ -70,8 +70,8 @@ A. Saran, S. Shukla and T. Ahmed, *"A comparative analysis of zero-shot rhetoric
 
 ### **Technical Skills**
 - **Programming Languages:** Python (Experienced), Dart, JavaScript, Bash, C++ (Familiar)  
-- **Frameworks & Libraries:** LlamaIndex, LangChain, PyTorch, TensorFlow, Flutter  
-- **Tools:** GIT, CLI, Android Studio  
+- **Frameworks & Libraries:** LlamaIndex, LangChain, PyTorch, TensorFlow, Django, Flutter  
+- **Tools:** GIT, CLI, Android Studio
 
 ### **Languages**
 - **Native:** Hindi  
